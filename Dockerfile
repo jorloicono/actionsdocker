@@ -1,4 +1,3 @@
-# Usa una imagen base de Node.js
 FROM node:14
 
 # Crea y usa un directorio de trabajo
